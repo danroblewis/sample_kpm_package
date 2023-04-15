@@ -1,8 +1,9 @@
 {
-    "name": "sample_kpm_package",
-    "version": "0.0.1",
+    "name": "sample_kpm_package_2",
+    "version": "0.0.2",
     "author": "danroblewis",
-    "homepage": "https://github.com/danroblewis/sample_kpm_package",
+    "homepage": "somehwere",
     "commands": {},
-    "dependencies": {}
+    "dependencies": {
+    }
 }
